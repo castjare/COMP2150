@@ -1,0 +1,28 @@
+{
+    "soccer": {
+        "player": [{
+            "full_name": "Lionel Messi",
+            "age": 30,
+            "nationality": "Argentine",
+            "club": "FC Barcelona"
+        },
+        {
+            "full_name": "Antoine Griezmann",
+            "age": 26,
+            "nationality": "French",
+            "club": "Atletico Madrid"
+        },
+        {
+            "full_name": "Eden Hazard",
+            "age": 27,
+            "nationality": "Belgian",
+            "club": "Chelsea FC"
+        },
+        {
+            "full_name": "Philippe Coutinho",
+            "age": 25,
+            "nationality":"Brazilian",
+            "club": "FC Barcelona"
+        }]
+    }
+}

@@ -1,0 +1,40 @@
+<?xml version= "1.0"?>
+
+<bc:soccer xmlns:bc="https://www.biography.com/players">
+
+    <bc:player name="messi">
+        <bc:full_name>Lionel Messi</bc:full_name>
+        <bc:age>30</bc:age>
+        <bc:nationality>Argentine</bc:nationality>
+        <bc:club>FC Barcelona</bc:club>
+    </bc:player>
+
+    <bc:player name="griezmann">
+        <bc:full_name>Antoine Griezmann</bc:full_name>
+        <bc:age>26</bc:age>
+        <bc:nationality>French</bc:nationality>
+        <bc:club>Atletico Madrid</bc:club>
+    </bc:player>
+    
+    <bc:player name="hazard">
+        <bc:full_name>Eden Hazard</bc:full_name>
+        <bc:age>27</bc:age>
+        <bc:nationality>Belgian</bc:nationality>
+        <bc:club>Chelsea FC</bc:club>
+    </bc:player>
+    
+    <bc:player name="coutinho">
+        <bc:full_name>Philippe Coutinho</bc:full_name>
+        <bc:age>25</bc:age>
+        <bc:nationality>Brazilian</bc:nationality>
+        <bc:club>FC Barcelona</bc:club>
+    </bc:player>
+
+</bc:soccer>
+
+
+
+
+
+
+
